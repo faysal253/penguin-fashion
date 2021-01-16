@@ -1,0 +1,81 @@
+
+body{
+    font-weight: 400;
+    font-size: 1rem;
+    font-family: "Roboto", sans-serif;
+    line-height: 1.6;
+    color: #555555;
+    background-color: #fff;
+}
+
+a{
+    text-decoration: none;
+    transition: ease all .3s;
+}
+
+h1, h2{
+    font-family: 'Oswald', sans-serif;
+    color: #363958;
+}
+.text-primary{
+    color: #A4BC46 !important;
+}
+
+.text-gold{
+    color: #FABE4C !important;
+}
+.py-100{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.pt-100{
+    padding-top: 100px;
+}
+.bg-light-pink{
+    background-color: #FFFBF0;
+}
+.width-100 {
+    width: 70px;
+    height: auto;
+}
+.btn-primary{
+    background-color: #A4BC46;
+    border: none;
+    font-size: 13px;
+    font-weight: 400;
+    letter-spacing: 1px;
+    padding: 15px 25px;
+    font-family: 'Oswald', sans-serif;
+}
+.btn-primary:hover{
+    background-color: #7a9319;
+}
+.navbar .nav-link {
+    font-weight: 500;
+    padding: 10px 20px !important;
+}
+.banner-text h1{
+    font-size: 60px;
+    font-weight: 500;
+}
+.card-title{
+    font-size: 22px;
+    color: #363958;
+    font-weight: 500;
+}
+.price{
+    font-size: 30px;
+    font-weight: 500;
+    color: #FABE4C;
+}
+.subscribe{
+    border-top: 1px solid #eee;
+}
+.subscribe .btn{
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+
+}
+
+
+
